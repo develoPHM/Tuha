@@ -1,0 +1,29 @@
+{
+  "name": "tuha",
+  "version": "1.0.0",
+  "description": "Quick Memo Desktop App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develoPHM/Tuha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/develoPHM/Tuha/issues"
+  },
+  "homepage": "https://github.com/develoPHM/Tuha#readme",
+  "devDependencies": {
+    "electron": "^40.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.0",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
